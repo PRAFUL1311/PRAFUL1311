@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Praful Bombatkar</h1>
 <h3 align="center">A passionate ML/Android from India</h3>
-mg align="right" alt="Coding" width="400" src=https://www.google.com/search?sca_esv=602396836&q=animated+coding+gif&tbm=isch&source=lnms&sa=X&ved=2ahUKEwi_1Mfkj4OEAxWdjVYBHS0TBZcQ0pQJegQICxAB&biw=1280&bih=598&dpr=1.5#imgrc=Wq0tsOxx6l1wMM>
+mg align="right" alt="Coding" width="400" src=https://github.com/rudrabarad/Gifs>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praful1311&label=Profile%20views&color=0e75b6&style=flat" alt="praful1311" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
